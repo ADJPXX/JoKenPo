@@ -1,0 +1,4 @@
+Partidas jogadas: 0
+Partidas que o jogador venceu: 0
+Partidas que o computador venceu: 0
+Partidas empatadas: 0
